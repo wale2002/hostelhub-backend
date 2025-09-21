@@ -14,7 +14,9 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:8080",
   "https://msg-app-5mwq.vercel.app",
+  "https://estate-steward-4c8a34uxg-adewusi-oluwaferanmis-projects.vercel.app",
   "https://estate-steward.vercel.app",
+  "https://estate-steward-git-main-adewusi-oluwaferanmis-projects.vercel.app",
 ];
 
 app.use(
